@@ -46,4 +46,4 @@ To build a consolidated, dynamic report helping stakeholders:
 * ✅ 92% orders successfully delivered, showcasing operational efficiency
 
 
-**Check out the output here: ( 
+**Check out the output here: ( https://github.com/BurraSathwikGoud/Excel_Vrinda_Store_Analysis-/blob/main/dashboard%20.png )
